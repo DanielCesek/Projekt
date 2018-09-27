@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<body>
+	<h1>Cvičení první</h1>
+	<p>HTML + téma práce</p>
+</body>
 
-You can use the [editor on GitHub](https://github.com/DanielCesek/Projekt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h2>Téma práce</h2>
+<p>Zobrazení <em>brněnských <strong>barů </strong> na  mapě </em> za pomocí textového editoru Notepad++ <p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<caption>Informace o studentovi</caption>
+<table border="1">
+<tr> <td>Daniel Češek</td>	 <td>451471</td> </tr>
+<tr> <td>Přf- N GK</td>    <td>Brno 2018</td> </tr>
+</table>
 
-### Markdown
+<img src="https://is.muni.cz/auth/lide/foto?uco=451471;bezprav=1;typ=prim" alt="Alternative text">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DanielCesek/Projekt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<ul>
+	<li>Téma práce: prostorově zobrazit brněnské bary.</li>							
+	<li>Případné zobrazení barů na mapě společně s informacemi</li>
+		<ul>
+			<li>Včetně obrázků</li>
+		</ul>
+	</li>
+</ul>
+<ul>
+	<li>Může sloužit pro širokou veřejnost.</li>
+	<li>Preferují se studenti erasmu</li>
+		<ul>
+			<li>Slouží pro hledání míst pro volnočasové aktivity</li>
+		</ul>
+	</li>
+</ul>
