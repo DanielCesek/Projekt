@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 
 <body>
 	<h1>Cvičení první</h1>
@@ -33,4 +31,3 @@
 		</ul>
 </ul>
 
-</html>
