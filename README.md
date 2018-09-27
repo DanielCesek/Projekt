@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head><metacharset="utf-8"><metaname="description"content="I’m adescription.">
-</head>
 
 <body>
 	<h1>Cvičení první</h1>
