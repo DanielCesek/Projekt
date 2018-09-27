@@ -1,7 +1,7 @@
 <body>
 	<h1>Cvičení první</h1>
 	<p>HTML + téma práce</p>
-</body
+</body>
 
 <h2>Téma práce</h2>
 <p>Zobrazení <em>brněnských <strong>barů </strong> na  mapě </em> za pomocí textového editoru Notepad++ <p>
