@@ -1,12 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head><metacharset="utf-8"><metaname="description"content="I’m adescription.">
+<title>Cviceni1</title>
+</head>
+
 <body>
 	<h1>Cvičení první</h1>
 	<p>HTML + téma práce</p>
-</body>
+</body
 
 <h2>Téma práce</h2>
 <p>Zobrazení <em>brněnských <strong>barů </strong> na  mapě </em> za pomocí textového editoru Notepad++ <p>
 
 <caption>Informace o studentovi</caption>
+
 <table border="1">
 <tr> <td>Daniel Češek</td>	 <td>451471</td> </tr>
 <tr> <td>Přf- N GK</td>    <td>Brno 2018</td> </tr>
@@ -28,3 +35,5 @@
 			<li>Slouží pro hledání míst pro volnočasové aktivity</li>
 		</ul>
 </ul>
+
+</html>
