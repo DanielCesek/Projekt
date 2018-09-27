@@ -20,7 +20,6 @@
 		<ul>
 			<li>Včetně obrázků</li>
 		</ul>
-	</li>
 </ul>
 <ul>
 	<li>Může sloužit pro širokou veřejnost.</li>
@@ -28,5 +27,4 @@
 		<ul>
 			<li>Slouží pro hledání míst pro volnočasové aktivity</li>
 		</ul>
-	</li>
 </ul>
