@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head><metacharset="utf-8"><metaname="description"content="I’m adescription.">
-<title>Cviceni1</title>
 </head>
 
 <body>
